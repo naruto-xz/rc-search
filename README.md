@@ -21,6 +21,7 @@ npm install rc-search
 ## Usage
 ```js
 import Search from 'rc-search';
+import 'rc-search/lib/index.css'
 
 const search = (value: string)=> {
   console.log(value);
