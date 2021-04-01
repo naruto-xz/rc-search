@@ -1,0 +1,23 @@
+.aio-rc-search {
+  display: flex;
+  align-items: center;
+  background: #f9f9f9;
+  border-radius: 15px;
+  border: 1px solid #dcdcdc;
+  padding: 5px 10px 5px 13px;
+}
+.aio-rc-search > input{
+  height: 20px;
+  line-height: 20px;
+  font-size: 14px;
+  font-weight: 400;
+  border: none;
+  outline: none;
+  background: transparent;
+  flex: 1;
+}
+.aio-rc-search > .search-icon{
+  font-size: 30px;
+  color: #9a9eac;
+  line-height: 0;
+}
