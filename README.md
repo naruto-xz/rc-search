@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to @aio/rc-search 👋</h1>
+<h1 align="center">Welcome to rc-search 👋</h1>
 
 [![NPM version][npm-image]][npm-url]
 ![License][license-url]
@@ -12,12 +12,12 @@
 ## Install
 
 ```sh
-npm install @aio/rc-search
+npm install rc-search
 ```
 
 ## Usage
 ```js
-import Search from '@aio/rc-search';
+import Search from 'rc-search';
 
 const search = (value: string)=> {
   console.log(value);
