@@ -1,13 +1,16 @@
 <h1 align="center">Welcome to rc-search 👋</h1>
-
-[![NPM version][npm-image]][npm-url]
-![License][license-url]
-
-[npm-image]: https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000
-[npm-url]: https://code.mlamp.cn/cem/react-component/search
-[license-url]: https://img.shields.io/badge/License-MIT-yellow.svg
+<p>
+  <a href="https://www.npmjs.com/package/rc-search" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/rc-search.svg">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
 > search ui component for react
+
+### 🏠 [Homepage](https://github.com/naruto-xz/rc-search)
 
 ## Install
 
@@ -61,10 +64,13 @@ export default () => <Search onSearch={search}/>;
 
 ## Author
 
-👤 **Jackie**
+👤 **xiaozhi**
 
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/naruto-xz/rc-search/issues). You can also take a look at the [contributing guide](git@github.com:naruto-xz/rc-search/blob/master/CONTRIBUTING.md).
 
+## Show your support
+
+Give a ⭐️ if this project helped you!
