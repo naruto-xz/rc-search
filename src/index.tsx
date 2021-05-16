@@ -1,5 +1,4 @@
-// @ts-ignore
-import React, { useState } from "react";
+import React, {useState} from "react";
 import "./icon-svgs";
 import "./index.css";
 
@@ -10,7 +9,7 @@ interface SearchProps {
 }
 
 const Search: React.FC<SearchProps> = ({
-  placeholder = "请输入…",
+  placeholder = "请输入",
   value = "",
   onSearch,
 }) => {
